@@ -1,0 +1,17 @@
+
+.some_stuff {
+    color: white;
+    border-style: double;
+}
+p {
+    color: white;
+}
+label {
+    color: white;
+}
+#camera
+{
+    border-style: double black;
+    width: 350px;
+    height: 350px;
+}
